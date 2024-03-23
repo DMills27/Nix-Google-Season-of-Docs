@@ -18,9 +18,9 @@ On one hand, the documentation lacks exhaustive examples and cogent explaination
 The scope of this project is to create official documenation that addresses some of the most promenent pain points in the Nix documentation for newcomers, namely understanding how to use its elementary features and commonly used tools in the Nix ecosystem, in addition to, developing a more organic way to produce documentation that keeps up with the size and scope of the Nix ecosystem. We use a multipronged approach,  using the insights from previous attempts and feedback to refine the processes and use-cases through: 
 
 
-- Writing tutorials and guides detailing the 
-- Improvements to the technical infrastructure related to documentation
-- Enchancing and developing the relavant tooling to ensure that new documentation remains relevant as it increases in complexity and 
+- Writing tutorials and guides detailing how to use the basic Nix concepts and tools.
+- Improvements to the technical infrastructure related to documentation.
+- Enchancing and developing the relavant tooling to ensure that new documentation remains relevant as it increases in complexity and scope.
 
 
 # Measuring the Project's Success
@@ -52,13 +52,12 @@ This timeline, especially within the May-July period, is not strict and has some
 Additional information:
 
 - The NixOS Foundation was selected for Google Summer of Code (GSoC) in 2024.
--
 
 # Ideas List
 
 Here are a few ideas we'd like to implement in the coming months.
 
-## Brass tacks
+## Improving the base Nix
 
 On a rudimentary level, the Nix documentation lacks detailed information about how to use some of its basic functionalities and tools associated with it, and would benefit from the inclusion of documentation that provides:
 
